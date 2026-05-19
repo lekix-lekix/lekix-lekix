@@ -1,5 +1,8 @@
 <h3 align="center">Hi there 👋, I'm Kilian</h3>
-<p align="center">Currently studying at 42 Paris, looking for a first internship or apprenticeship, I'm passionate about programming and building creative products.</p>
+<p align="center">Currently studying at 42 Paris, looking for a first internship or apprenticeship.</p>
+<p align="center">I'm passionate about programming and building creative products.</p>
+
+---
 
 <h3 align="center">💬 Languages</h3>
 
@@ -18,6 +21,4 @@
     <img src="https://skillicons.dev/icons?i=sqlite,nodejs,react,tailwind,docker,nginx,linux,git,kubernetes&perline=10" />
   </a>
 </p>
-
----
 
