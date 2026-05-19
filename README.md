@@ -1,16 +1,24 @@
-## Hi there 👋
+<h3 align="center">Hi there 👋, I'm Kilian</h3>
 
-<!--
-**lekix-lekix/lekix-lekix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h3 align="center">💬 Languages</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=c,cpp,ts,html,css&perline=10" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">🧰 Tools & Frameworks</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=sqlite,nodejs,react,tailwind,docker,nginx,linux,git,kubernetes&perline=10" />
+  </a>
+</p>
+
+---
+
