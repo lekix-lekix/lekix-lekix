@@ -1,6 +1,5 @@
 <h3 align="center">Hi there 👋, I'm Kilian</h3>
-<p>Currently studying at 42 Paris, looking for a first internship or apprenticeship.</p>
----
+<p align="center">Currently studying at 42 Paris, looking for a first internship or apprenticeship, I'm passionate about programming and building creative products.</p>
 
 <h3 align="center">💬 Languages</h3>
 
