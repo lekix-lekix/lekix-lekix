@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=c,cpp,ts,html,css&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css&perline=10" />
   </a>
 </p>
 
